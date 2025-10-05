@@ -64,8 +64,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=gabcal07&theme=dracula" alt="Gabriel-Cadet" />
   </a> 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabcal07&show_icons=true&theme=dracula" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabcal07&theme=dracula" alt="streak stats" />
-</p>
